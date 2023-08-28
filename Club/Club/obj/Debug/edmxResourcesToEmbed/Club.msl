@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="clbModelStoreContainer" CdmEntityContainer="ClbEntities">
+    <EntitySetMapping Name="Admins">
+      <EntityTypeMapping TypeName="clbModel.Admin">
+        <MappingFragment StoreEntitySet="Admin">
+          <ScalarProperty Name="idAdmi" ColumnName="idAdmi" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="clbModel.Client">
+        <MappingFragment StoreEntitySet="Client">
+          <ScalarProperty Name="idclient" ColumnName="idclient" />
+          <ScalarProperty Name="idculb" ColumnName="idculb" />
+          <ScalarProperty Name="idSouscategorie" ColumnName="idSouscategorie" />
+          <ScalarProperty Name="Nomclient" ColumnName="Nomclient" />
+          <ScalarProperty Name="Prenom_cl" ColumnName="Prenom_cl" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="N_tele" ColumnName="N_tele" />
+          <ScalarProperty Name="datedebut" ColumnName="datedebut" />
+          <ScalarProperty Name="Genre" ColumnName="Genre" />
+          <ScalarProperty Name="Cinclient" ColumnName="Cinclient" />
+          <ScalarProperty Name="cash" ColumnName="cash" />
+          <ScalarProperty Name="card" ColumnName="card" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clubs">
+      <EntityTypeMapping TypeName="clbModel.Club">
+        <MappingFragment StoreEntitySet="Club">
+          <ScalarProperty Name="idAdmi" ColumnName="idAdmi" />
+          <ScalarProperty Name="idculb" ColumnName="idculb" />
+          <ScalarProperty Name="Nomclub" ColumnName="Nomclub" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ctaegories">
+      <EntityTypeMapping TypeName="clbModel.Ctaegorie">
+        <MappingFragment StoreEntitySet="Ctaegorie">
+          <ScalarProperty Name="idculb" ColumnName="idculb" />
+          <ScalarProperty Name="idcatgorie" ColumnName="idcatgorie" />
+          <ScalarProperty Name="NomCategorie" ColumnName="NomCategorie" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="logins">
+      <EntityTypeMapping TypeName="clbModel.login">
+        <MappingFragment StoreEntitySet="login">
+          <ScalarProperty Name="idclient" ColumnName="idclient" />
+          <ScalarProperty Name="idlogin" ColumnName="idlogin" />
+          <ScalarProperty Name="idAdmi" ColumnName="idAdmi" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Paiments">
+      <EntityTypeMapping TypeName="clbModel.Paiment">
+        <MappingFragment StoreEntitySet="Paiment">
+          <ScalarProperty Name="idclient" ColumnName="idclient" />
+          <ScalarProperty Name="idpaiment" ColumnName="idpaiment" />
+          <ScalarProperty Name="Paypal" ColumnName="Paypal" />
+          <ScalarProperty Name="espace" ColumnName="espace" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SousCatgories">
+      <EntityTypeMapping TypeName="clbModel.SousCatgorie">
+        <MappingFragment StoreEntitySet="SousCatgorie">
+          <ScalarProperty Name="idcatgorie" ColumnName="idcatgorie" />
+          <ScalarProperty Name="idSouscategorie" ColumnName="idSouscategorie" />
+          <ScalarProperty Name="Nomsouscatgorie" ColumnName="Nomsouscatgorie" />
+          <ScalarProperty Name="prix" ColumnName="prix" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

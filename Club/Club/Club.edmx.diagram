@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b9efc15786bd4885a4a22e64e5c5b5c1" Name="Diagram1" ZoomLevel="74">
+        <EntityTypeShape EntityType="clbModel.Admin" Width="1.5" PointX="0.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="clbModel.Client" Width="1.5" PointX="9.75" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="clbModel.Club" Width="1.5" PointX="3" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="clbModel.Ctaegorie" Width="1.5" PointX="5.25" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="clbModel.login" Width="1.5" PointX="12" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="clbModel.Paiment" Width="1.5" PointX="12" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="clbModel.SousCatgorie" Width="1.5" PointX="7.5" PointY="9.125" IsExpanded="true" />
+        <AssociationConnector Association="clbModel.FK_CLUB_ASSOCIATI_ADMIN" ManuallyRouted="false" />
+        <AssociationConnector Association="clbModel.FK_LOGIN_ASSOCIATI_ADMIN" ManuallyRouted="false" />
+        <AssociationConnector Association="clbModel.FK_CLIENT_ASSOCIATI_CLUB" ManuallyRouted="false" />
+        <AssociationConnector Association="clbModel.FK_CLIENT_ASSOCIATI_SOUSCATG" ManuallyRouted="false" />
+        <AssociationConnector Association="clbModel.FK_LOGIN_ASSOCIATI_CLIENT" ManuallyRouted="false" />
+        <AssociationConnector Association="clbModel.FK_PAIMENT_ASSOCIATI_CLIENT" ManuallyRouted="false" />
+        <AssociationConnector Association="clbModel.FK_CTAEGORI_ASSOCIATI_CLUB" ManuallyRouted="false" />
+        <AssociationConnector Association="clbModel.FK_SOUSCATG_ASSOCIATI_CTAEGORI" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

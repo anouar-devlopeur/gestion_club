@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="clbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="idAdmi" />
+    </Key>
+    <Property Name="idAdmi" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="username" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="25" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="idclient" />
+    </Key>
+    <Property Name="idclient" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="idculb" Type="int" />
+    <Property Name="idSouscategorie" Type="int" />
+    <Property Name="Nomclient" Type="varchar" MaxLength="25" />
+    <Property Name="Prenom_cl" Type="varchar" MaxLength="25" />
+    <Property Name="Email" Type="varchar" MaxLength="25" />
+    <Property Name="Password" Type="varchar" MaxLength="25" />
+    <Property Name="N_tele" Type="int" />
+    <Property Name="datedebut" Type="date" />
+    <Property Name="Genre" Type="varchar" MaxLength="10" />
+    <Property Name="Cinclient" Type="varchar" MaxLength="25" />
+    <Property Name="cash" Type="varchar" MaxLength="25" />
+    <Property Name="card" Type="varchar" MaxLength="25" />
+  </EntityType>
+  <EntityType Name="Club">
+    <Key>
+      <PropertyRef Name="idculb" />
+    </Key>
+    <Property Name="idAdmi" Type="int" />
+    <Property Name="idculb" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nomclub" Type="varchar" MaxLength="254" />
+  </EntityType>
+  <EntityType Name="Ctaegorie">
+    <Key>
+      <PropertyRef Name="idcatgorie" />
+    </Key>
+    <Property Name="idculb" Type="int" />
+    <Property Name="idcatgorie" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NomCategorie" Type="varchar" MaxLength="25" />
+  </EntityType>
+  <EntityType Name="login">
+    <Key>
+      <PropertyRef Name="idlogin" />
+    </Key>
+    <Property Name="idclient" Type="int" />
+    <Property Name="idlogin" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="idAdmi" Type="int" />
+    <Property Name="Email" Type="varchar" MaxLength="25" />
+    <Property Name="password" Type="varchar" MaxLength="25" />
+  </EntityType>
+  <EntityType Name="Paiment">
+    <Key>
+      <PropertyRef Name="idpaiment" />
+    </Key>
+    <Property Name="idclient" Type="int" />
+    <Property Name="idpaiment" Type="int" Nullable="false" />
+    <Property Name="Paypal" Type="varchar" MaxLength="25" />
+    <Property Name="espace" Type="varchar" MaxLength="25" />
+  </EntityType>
+  <EntityType Name="SousCatgorie">
+    <Key>
+      <PropertyRef Name="idSouscategorie" />
+    </Key>
+    <Property Name="idcatgorie" Type="int" />
+    <Property Name="idSouscategorie" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nomsouscatgorie" Type="varchar" MaxLength="25" />
+    <Property Name="prix" Type="int" />
+  </EntityType>
+  <Association Name="FK_CLIENT_ASSOCIATI_CLUB">
+    <End Role="Club" Type="Self.Club" Multiplicity="0..1" />
+    <End Role="Client" Type="Self.Client" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Club">
+        <PropertyRef Name="idculb" />
+      </Principal>
+      <Dependent Role="Client">
+        <PropertyRef Name="idculb" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CLIENT_ASSOCIATI_SOUSCATG">
+    <End Role="SousCatgorie" Type="Self.SousCatgorie" Multiplicity="0..1" />
+    <End Role="Client" Type="Self.Client" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SousCatgorie">
+        <PropertyRef Name="idSouscategorie" />
+      </Principal>
+      <Dependent Role="Client">
+        <PropertyRef Name="idSouscategorie" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CLUB_ASSOCIATI_ADMIN">
+    <End Role="Admin" Type="Self.Admin" Multiplicity="0..1" />
+    <End Role="Club" Type="Self.Club" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Admin">
+        <PropertyRef Name="idAdmi" />
+      </Principal>
+      <Dependent Role="Club">
+        <PropertyRef Name="idAdmi" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CTAEGORI_ASSOCIATI_CLUB">
+    <End Role="Club" Type="Self.Club" Multiplicity="0..1" />
+    <End Role="Ctaegorie" Type="Self.Ctaegorie" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Club">
+        <PropertyRef Name="idculb" />
+      </Principal>
+      <Dependent Role="Ctaegorie">
+        <PropertyRef Name="idculb" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LOGIN_ASSOCIATI_ADMIN">
+    <End Role="Admin" Type="Self.Admin" Multiplicity="0..1" />
+    <End Role="login" Type="Self.login" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Admin">
+        <PropertyRef Name="idAdmi" />
+      </Principal>
+      <Dependent Role="login">
+        <PropertyRef Name="idAdmi" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LOGIN_ASSOCIATI_CLIENT">
+    <End Role="Client" Type="Self.Client" Multiplicity="0..1" />
+    <End Role="login" Type="Self.login" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Client">
+        <PropertyRef Name="idclient" />
+      </Principal>
+      <Dependent Role="login">
+        <PropertyRef Name="idclient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PAIMENT_ASSOCIATI_CLIENT">
+    <End Role="Client" Type="Self.Client" Multiplicity="0..1" />
+    <End Role="Paiment" Type="Self.Paiment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Client">
+        <PropertyRef Name="idclient" />
+      </Principal>
+      <Dependent Role="Paiment">
+        <PropertyRef Name="idclient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SOUSCATG_ASSOCIATI_CTAEGORI">
+    <End Role="Ctaegorie" Type="Self.Ctaegorie" Multiplicity="0..1" />
+    <End Role="SousCatgorie" Type="Self.SousCatgorie" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ctaegorie">
+        <PropertyRef Name="idcatgorie" />
+      </Principal>
+      <Dependent Role="SousCatgorie">
+        <PropertyRef Name="idcatgorie" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="clbModelStoreContainer">
+    <EntitySet Name="Admin" EntityType="Self.Admin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Client" EntityType="Self.Client" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Club" EntityType="Self.Club" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ctaegorie" EntityType="Self.Ctaegorie" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="login" EntityType="Self.login" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Paiment" EntityType="Self.Paiment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SousCatgorie" EntityType="Self.SousCatgorie" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_CLIENT_ASSOCIATI_CLUB" Association="Self.FK_CLIENT_ASSOCIATI_CLUB">
+      <End Role="Club" EntitySet="Club" />
+      <End Role="Client" EntitySet="Client" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CLIENT_ASSOCIATI_SOUSCATG" Association="Self.FK_CLIENT_ASSOCIATI_SOUSCATG">
+      <End Role="SousCatgorie" EntitySet="SousCatgorie" />
+      <End Role="Client" EntitySet="Client" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CLUB_ASSOCIATI_ADMIN" Association="Self.FK_CLUB_ASSOCIATI_ADMIN">
+      <End Role="Admin" EntitySet="Admin" />
+      <End Role="Club" EntitySet="Club" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CTAEGORI_ASSOCIATI_CLUB" Association="Self.FK_CTAEGORI_ASSOCIATI_CLUB">
+      <End Role="Club" EntitySet="Club" />
+      <End Role="Ctaegorie" EntitySet="Ctaegorie" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LOGIN_ASSOCIATI_ADMIN" Association="Self.FK_LOGIN_ASSOCIATI_ADMIN">
+      <End Role="Admin" EntitySet="Admin" />
+      <End Role="login" EntitySet="login" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LOGIN_ASSOCIATI_CLIENT" Association="Self.FK_LOGIN_ASSOCIATI_CLIENT">
+      <End Role="Client" EntitySet="Client" />
+      <End Role="login" EntitySet="login" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PAIMENT_ASSOCIATI_CLIENT" Association="Self.FK_PAIMENT_ASSOCIATI_CLIENT">
+      <End Role="Client" EntitySet="Client" />
+      <End Role="Paiment" EntitySet="Paiment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SOUSCATG_ASSOCIATI_CTAEGORI" Association="Self.FK_SOUSCATG_ASSOCIATI_CTAEGORI">
+      <End Role="Ctaegorie" EntitySet="Ctaegorie" />
+      <End Role="SousCatgorie" EntitySet="SousCatgorie" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

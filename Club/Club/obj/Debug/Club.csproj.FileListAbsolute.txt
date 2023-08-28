@@ -1,0 +1,668 @@
+E:\Club\Club\bin\Club.dll.config
+E:\Club\Club\bin\Club.dll
+E:\Club\Club\bin\Club.pdb
+E:\Club\Club\bin\roslyn\csc.exe
+E:\Club\Club\bin\roslyn\csc.exe.config
+E:\Club\Club\bin\roslyn\csc.rsp
+E:\Club\Club\bin\roslyn\csi.exe
+E:\Club\Club\bin\roslyn\csi.exe.config
+E:\Club\Club\bin\roslyn\csi.rsp
+E:\Club\Club\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Club\Club\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Club\Club\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Club\Club\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Club\Club\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Club\Club\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Club\Club\bin\roslyn\System.AppContext.dll
+E:\Club\Club\bin\roslyn\System.Collections.Immutable.dll
+E:\Club\Club\bin\roslyn\System.Console.dll
+E:\Club\Club\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Club\Club\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Club\Club\bin\roslyn\System.IO.Compression.dll
+E:\Club\Club\bin\roslyn\System.IO.FileSystem.dll
+E:\Club\Club\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Club\Club\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Club\Club\bin\roslyn\System.IO.Pipes.dll
+E:\Club\Club\bin\roslyn\System.Reflection.Metadata.dll
+E:\Club\Club\bin\roslyn\System.Security.AccessControl.dll
+E:\Club\Club\bin\roslyn\System.Security.Claims.dll
+E:\Club\Club\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Club\Club\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Club\Club\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Club\Club\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Club\Club\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Club\Club\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Club\Club\bin\roslyn\System.ValueTuple.dll
+E:\Club\Club\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Club\Club\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Club\Club\bin\roslyn\System.Xml.XPath.dll
+E:\Club\Club\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Club\Club\bin\roslyn\vbc.exe
+E:\Club\Club\bin\roslyn\vbc.exe.config
+E:\Club\Club\bin\roslyn\vbc.rsp
+E:\Club\Club\bin\roslyn\VBCSCompiler.exe
+E:\Club\Club\bin\roslyn\VBCSCompiler.exe.config
+E:\Club\Club\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Club\Club\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Club\Club\obj\Debug\Club.csproj.CoreCompileInputs.cache
+E:\Club\Club\obj\Debug\Club.csproj.CopyComplete
+E:\Club\Club\obj\Debug\Club.dll
+E:\Club\Club\obj\Debug\Club.pdb
+E:\Club\Club\bin\EntityFramework.dll
+E:\Club\Club\bin\EntityFramework.SqlServer.dll
+E:\Club\Club\bin\EntityFramework.xml
+E:\Club\Club\bin\EntityFramework.SqlServer.xml
+E:\Club\Club\bin\Microsoft.Win32.Primitives.dll
+E:\Club\Club\bin\netstandard.dll
+E:\Club\Club\bin\System.AppContext.dll
+E:\Club\Club\bin\System.Collections.Concurrent.dll
+E:\Club\Club\bin\System.Collections.dll
+E:\Club\Club\bin\System.Collections.NonGeneric.dll
+E:\Club\Club\bin\System.Collections.Specialized.dll
+E:\Club\Club\bin\System.ComponentModel.dll
+E:\Club\Club\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Club\Club\bin\System.ComponentModel.Primitives.dll
+E:\Club\Club\bin\System.ComponentModel.TypeConverter.dll
+E:\Club\Club\bin\System.Console.dll
+E:\Club\Club\bin\System.Data.Common.dll
+E:\Club\Club\bin\System.Diagnostics.Contracts.dll
+E:\Club\Club\bin\System.Diagnostics.Debug.dll
+E:\Club\Club\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Club\Club\bin\System.Diagnostics.Process.dll
+E:\Club\Club\bin\System.Diagnostics.StackTrace.dll
+E:\Club\Club\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Club\Club\bin\System.Diagnostics.Tools.dll
+E:\Club\Club\bin\System.Diagnostics.TraceSource.dll
+E:\Club\Club\bin\System.Diagnostics.Tracing.dll
+E:\Club\Club\bin\System.Drawing.Primitives.dll
+E:\Club\Club\bin\System.Dynamic.Runtime.dll
+E:\Club\Club\bin\System.Globalization.Calendars.dll
+E:\Club\Club\bin\System.Globalization.dll
+E:\Club\Club\bin\System.Globalization.Extensions.dll
+E:\Club\Club\bin\System.IO.Compression.dll
+E:\Club\Club\bin\System.IO.Compression.ZipFile.dll
+E:\Club\Club\bin\System.IO.dll
+E:\Club\Club\bin\System.IO.FileSystem.dll
+E:\Club\Club\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Club\Club\bin\System.IO.FileSystem.Primitives.dll
+E:\Club\Club\bin\System.IO.FileSystem.Watcher.dll
+E:\Club\Club\bin\System.IO.IsolatedStorage.dll
+E:\Club\Club\bin\System.IO.MemoryMappedFiles.dll
+E:\Club\Club\bin\System.IO.Pipes.dll
+E:\Club\Club\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Club\Club\bin\System.Linq.dll
+E:\Club\Club\bin\System.Linq.Expressions.dll
+E:\Club\Club\bin\System.Linq.Parallel.dll
+E:\Club\Club\bin\System.Linq.Queryable.dll
+E:\Club\Club\bin\System.Net.Http.dll
+E:\Club\Club\bin\System.Net.NameResolution.dll
+E:\Club\Club\bin\System.Net.NetworkInformation.dll
+E:\Club\Club\bin\System.Net.Ping.dll
+E:\Club\Club\bin\System.Net.Primitives.dll
+E:\Club\Club\bin\System.Net.Requests.dll
+E:\Club\Club\bin\System.Net.Security.dll
+E:\Club\Club\bin\System.Net.Sockets.dll
+E:\Club\Club\bin\System.Net.WebHeaderCollection.dll
+E:\Club\Club\bin\System.Net.WebSockets.Client.dll
+E:\Club\Club\bin\System.Net.WebSockets.dll
+E:\Club\Club\bin\System.ObjectModel.dll
+E:\Club\Club\bin\System.Reflection.dll
+E:\Club\Club\bin\System.Reflection.Extensions.dll
+E:\Club\Club\bin\System.Reflection.Primitives.dll
+E:\Club\Club\bin\System.Resources.Reader.dll
+E:\Club\Club\bin\System.Resources.ResourceManager.dll
+E:\Club\Club\bin\System.Resources.Writer.dll
+E:\Club\Club\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Club\Club\bin\System.Runtime.dll
+E:\Club\Club\bin\System.Runtime.Extensions.dll
+E:\Club\Club\bin\System.Runtime.Handles.dll
+E:\Club\Club\bin\System.Runtime.InteropServices.dll
+E:\Club\Club\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Club\Club\bin\System.Runtime.Numerics.dll
+E:\Club\Club\bin\System.Runtime.Serialization.Formatters.dll
+E:\Club\Club\bin\System.Runtime.Serialization.Json.dll
+E:\Club\Club\bin\System.Runtime.Serialization.Primitives.dll
+E:\Club\Club\bin\System.Runtime.Serialization.Xml.dll
+E:\Club\Club\bin\System.Security.Claims.dll
+E:\Club\Club\bin\System.Security.Cryptography.Algorithms.dll
+E:\Club\Club\bin\System.Security.Cryptography.Csp.dll
+E:\Club\Club\bin\System.Security.Cryptography.Encoding.dll
+E:\Club\Club\bin\System.Security.Cryptography.Primitives.dll
+E:\Club\Club\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Club\Club\bin\System.Security.Principal.dll
+E:\Club\Club\bin\System.Security.SecureString.dll
+E:\Club\Club\bin\System.Text.Encoding.dll
+E:\Club\Club\bin\System.Text.Encoding.Extensions.dll
+E:\Club\Club\bin\System.Text.RegularExpressions.dll
+E:\Club\Club\bin\System.Threading.dll
+E:\Club\Club\bin\System.Threading.Overlapped.dll
+E:\Club\Club\bin\System.Threading.Tasks.dll
+E:\Club\Club\bin\System.Threading.Tasks.Parallel.dll
+E:\Club\Club\bin\System.Threading.Thread.dll
+E:\Club\Club\bin\System.Threading.ThreadPool.dll
+E:\Club\Club\bin\System.Threading.Timer.dll
+E:\Club\Club\bin\System.ValueTuple.dll
+E:\Club\Club\bin\System.Xml.ReaderWriter.dll
+E:\Club\Club\bin\System.Xml.XDocument.dll
+E:\Club\Club\bin\System.Xml.XmlDocument.dll
+E:\Club\Club\bin\System.Xml.XmlSerializer.dll
+E:\Club\Club\bin\System.Xml.XPath.dll
+E:\Club\Club\bin\System.Xml.XPath.XDocument.dll
+E:\Club\Club\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Club\Club\bin\Newtonsoft.Json.dll
+E:\Club\Club\bin\Stripe.net.dll
+E:\Club\Club\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Club\Club\bin\System.Threading.Tasks.Extensions.dll
+E:\Club\Club\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Club\Club\bin\Newtonsoft.Json.xml
+E:\Club\Club\bin\Stripe.net.pdb
+E:\Club\Club\bin\Stripe.net.xml
+E:\Club\Club\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Club\Club\bin\System.Threading.Tasks.Extensions.xml
+E:\Club\Club\obj\Debug\Club.csprojAssemblyReference.cache
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Club.dll.config
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Club.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Club.pdb
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csc.exe
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csc.exe.config
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csc.rsp
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csi.exe
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csi.exe.config
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csi.rsp
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.Managed.Core.targets
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.AppContext.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Collections.Immutable.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Console.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.Compression.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.FileSystem.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.Pipes.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Reflection.Metadata.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.AccessControl.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Claims.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Principal.Windows.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.ValueTuple.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Xml.XmlDocument.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Xml.XPath.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\vbc.exe
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\vbc.exe.config
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\vbc.rsp
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\VBCSCompiler.exe
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\VBCSCompiler.exe.config
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.Win32.Primitives.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\netstandard.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.AppContext.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Collections.Concurrent.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Collections.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Collections.NonGeneric.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Collections.Specialized.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ComponentModel.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ComponentModel.EventBasedAsync.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ComponentModel.Primitives.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ComponentModel.TypeConverter.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Console.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Data.Common.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Contracts.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Debug.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.FileVersionInfo.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Process.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.StackTrace.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.TextWriterTraceListener.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Tools.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.TraceSource.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Tracing.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Drawing.Primitives.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Dynamic.Runtime.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Globalization.Calendars.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Globalization.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Globalization.Extensions.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.Compression.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.Compression.ZipFile.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.FileSystem.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.FileSystem.DriveInfo.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.FileSystem.Primitives.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.FileSystem.Watcher.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.IsolatedStorage.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.MemoryMappedFiles.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.Pipes.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.UnmanagedMemoryStream.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Linq.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Linq.Expressions.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Linq.Parallel.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Linq.Queryable.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Http.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.NameResolution.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.NetworkInformation.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Ping.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Primitives.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Requests.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Security.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Sockets.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.WebHeaderCollection.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.WebSockets.Client.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.WebSockets.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ObjectModel.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Reflection.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Reflection.Extensions.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Reflection.Primitives.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Resources.Reader.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Resources.ResourceManager.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Resources.Writer.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.CompilerServices.VisualC.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Extensions.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Handles.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.InteropServices.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Numerics.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Serialization.Formatters.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Serialization.Json.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Serialization.Primitives.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Serialization.Xml.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Claims.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.Algorithms.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.Csp.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.Encoding.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.Primitives.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.X509Certificates.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Principal.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.SecureString.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Text.Encoding.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Text.Encoding.Extensions.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Text.RegularExpressions.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Overlapped.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Tasks.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Tasks.Parallel.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Thread.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.ThreadPool.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Timer.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ValueTuple.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.ReaderWriter.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XDocument.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XmlDocument.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XmlSerializer.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XPath.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XPath.XDocument.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\EntityFramework.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\EntityFramework.SqlServer.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.Bcl.AsyncInterfaces.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Newtonsoft.Json.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Stripe.net.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Tasks.Extensions.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\EntityFramework.xml
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\EntityFramework.SqlServer.xml
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.Bcl.AsyncInterfaces.xml
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Newtonsoft.Json.xml
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Stripe.net.pdb
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Stripe.net.xml
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Tasks.Extensions.xml
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.csproj.AssemblyReference.cache
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.csproj.CoreCompileInputs.cache
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.csproj.CopyComplete
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.dll
+G:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.pdb
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Club.dll.config
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Club.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Club.pdb
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csc.exe
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csc.exe.config
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csc.rsp
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csi.exe
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csi.exe.config
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csi.rsp
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.Managed.Core.targets
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.AppContext.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Collections.Immutable.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Console.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.Compression.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.FileSystem.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.Pipes.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Reflection.Metadata.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.AccessControl.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Claims.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Principal.Windows.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.ValueTuple.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Xml.XmlDocument.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Xml.XPath.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\vbc.exe
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\vbc.exe.config
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\vbc.rsp
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\VBCSCompiler.exe
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\VBCSCompiler.exe.config
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.Win32.Primitives.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\netstandard.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.AppContext.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Collections.Concurrent.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Collections.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Collections.NonGeneric.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Collections.Specialized.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ComponentModel.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ComponentModel.EventBasedAsync.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ComponentModel.Primitives.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ComponentModel.TypeConverter.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Console.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Data.Common.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Contracts.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Debug.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.FileVersionInfo.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Process.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.StackTrace.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Tools.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.TraceSource.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Tracing.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Drawing.Primitives.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Dynamic.Runtime.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Globalization.Calendars.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Globalization.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Globalization.Extensions.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.Compression.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.Compression.ZipFile.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.FileSystem.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.FileSystem.DriveInfo.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.FileSystem.Primitives.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.FileSystem.Watcher.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.IsolatedStorage.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.MemoryMappedFiles.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.Pipes.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.UnmanagedMemoryStream.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Linq.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Linq.Expressions.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Linq.Parallel.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Linq.Queryable.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Http.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.NameResolution.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.NetworkInformation.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Ping.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Primitives.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Requests.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Security.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Sockets.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.WebHeaderCollection.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.WebSockets.Client.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.WebSockets.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ObjectModel.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Reflection.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Reflection.Extensions.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Reflection.Primitives.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Resources.Reader.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Resources.ResourceManager.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Resources.Writer.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Extensions.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Handles.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.InteropServices.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Numerics.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Serialization.Formatters.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Serialization.Json.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Serialization.Primitives.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Serialization.Xml.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Claims.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.Algorithms.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.Csp.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.Encoding.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.Primitives.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.X509Certificates.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Principal.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.SecureString.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Text.Encoding.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Text.Encoding.Extensions.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Text.RegularExpressions.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Overlapped.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Tasks.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Tasks.Parallel.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Thread.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.ThreadPool.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Timer.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ValueTuple.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.ReaderWriter.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XDocument.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XmlDocument.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XmlSerializer.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XPath.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XPath.XDocument.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\EntityFramework.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\EntityFramework.SqlServer.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Newtonsoft.Json.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Stripe.net.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Tasks.Extensions.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\EntityFramework.xml
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\EntityFramework.SqlServer.xml
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Newtonsoft.Json.xml
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Stripe.net.pdb
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Stripe.net.xml
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Tasks.Extensions.xml
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.csproj.AssemblyReference.cache
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.csproj.CoreCompileInputs.cache
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.csproj.CopyComplete
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.dll
+E:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.pdb
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Club.dll.config
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Club.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Club.pdb
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csc.exe
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csc.exe.config
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csc.rsp
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csi.exe
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csi.exe.config
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\csi.rsp
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.Managed.Core.targets
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.AppContext.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Collections.Immutable.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Console.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.Compression.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.FileSystem.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.IO.Pipes.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Reflection.Metadata.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.AccessControl.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Claims.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Security.Principal.Windows.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.ValueTuple.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Xml.XmlDocument.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Xml.XPath.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\vbc.exe
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\vbc.exe.config
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\vbc.rsp
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\VBCSCompiler.exe
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\roslyn\VBCSCompiler.exe.config
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.Win32.Primitives.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\netstandard.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.AppContext.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Collections.Concurrent.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Collections.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Collections.NonGeneric.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Collections.Specialized.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ComponentModel.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ComponentModel.EventBasedAsync.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ComponentModel.Primitives.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ComponentModel.TypeConverter.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Console.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Data.Common.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Contracts.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Debug.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.FileVersionInfo.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Process.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.StackTrace.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Tools.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.TraceSource.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Diagnostics.Tracing.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Drawing.Primitives.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Dynamic.Runtime.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Globalization.Calendars.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Globalization.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Globalization.Extensions.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.Compression.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.Compression.ZipFile.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.FileSystem.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.FileSystem.DriveInfo.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.FileSystem.Primitives.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.FileSystem.Watcher.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.IsolatedStorage.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.MemoryMappedFiles.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.Pipes.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.IO.UnmanagedMemoryStream.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Linq.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Linq.Expressions.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Linq.Parallel.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Linq.Queryable.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Http.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.NameResolution.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.NetworkInformation.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Ping.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Primitives.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Requests.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Security.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.Sockets.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.WebHeaderCollection.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.WebSockets.Client.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Net.WebSockets.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ObjectModel.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Reflection.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Reflection.Extensions.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Reflection.Primitives.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Resources.Reader.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Resources.ResourceManager.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Resources.Writer.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Extensions.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Handles.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.InteropServices.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Numerics.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Serialization.Formatters.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Serialization.Json.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Serialization.Primitives.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.Serialization.Xml.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Claims.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.Algorithms.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.Csp.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.Encoding.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.Primitives.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Cryptography.X509Certificates.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.Principal.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Security.SecureString.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Text.Encoding.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Text.Encoding.Extensions.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Text.RegularExpressions.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Overlapped.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Tasks.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Tasks.Parallel.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Thread.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.ThreadPool.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Timer.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.ValueTuple.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.ReaderWriter.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XDocument.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XmlDocument.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XmlSerializer.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XPath.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Xml.XPath.XDocument.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\EntityFramework.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\EntityFramework.SqlServer.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Newtonsoft.Json.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Stripe.net.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Tasks.Extensions.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\EntityFramework.xml
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\EntityFramework.SqlServer.xml
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.Bcl.AsyncInterfaces.xml
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Newtonsoft.Json.xml
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Stripe.net.pdb
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Stripe.net.xml
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\System.Threading.Tasks.Extensions.xml
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.csproj.AssemblyReference.cache
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.csproj.CoreCompileInputs.cache
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.csproj.CopyComplete
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.dll
+F:\projet fin etude Anwar bouchehboun_Gamal Mouhssine 204\Club\Club\obj\Debug\Club.pdb
